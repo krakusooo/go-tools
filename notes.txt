@@ -10,3 +10,4 @@ regex filter
 unit tests
 recursive hash
 docs update
+ipinfo tool
