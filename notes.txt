@@ -11,3 +11,4 @@ unit tests
 recursive hash
 docs update
 ipinfo tool
+json output
