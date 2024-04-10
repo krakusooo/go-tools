@@ -3,3 +3,4 @@ port scanner basic
 goroutines
 hash tool
 log parser
+error handling
