@@ -16,3 +16,4 @@ sysmon
 banner grab
 udp scan
 csv output
+dns bulk
