@@ -18,3 +18,4 @@ udp scan
 csv output
 dns bulk
 config json
+rate limit
