@@ -5,3 +5,4 @@ hash tool
 log parser
 error handling
 utils package
+makefile
