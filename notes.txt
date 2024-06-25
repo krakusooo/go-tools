@@ -19,3 +19,4 @@ csv output
 dns bulk
 config json
 rate limit
+apache nginx
