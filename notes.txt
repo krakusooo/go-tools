@@ -6,3 +6,4 @@ log parser
 error handling
 utils package
 makefile
+regex filter
