@@ -27,3 +27,4 @@ ipv6 fix
 whois
 subdomain enum
 cobra cli
+progress bar
