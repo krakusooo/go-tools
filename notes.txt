@@ -8,3 +8,4 @@ utils package
 makefile
 regex filter
 unit tests
+recursive hash
