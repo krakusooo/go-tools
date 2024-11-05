@@ -28,3 +28,4 @@ whois
 subdomain enum
 cobra cli
 progress bar
+output formats
