@@ -30,3 +30,4 @@ cobra cli
 progress bar
 output formats
 integration tests
+performance
