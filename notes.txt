@@ -31,3 +31,4 @@ progress bar
 output formats
 integration tests
 performance
+docs update
